@@ -12,3 +12,5 @@ Spark Context and Load Data
 
 Spark context was built,and training and testing data were loaded.
 
+Sparse Vector Conversion
+
