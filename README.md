@@ -15,3 +15,5 @@ Spark context was built,and training and testing data were loaded.
 - Sparse Vector Conversion
 
 Basic sentence tokenizer was used, and then count the words in a document as raw features using HashingTF. Then build the idf model and transform the original token frequencies into their tf-idf counterparts, thus the features were created.
+
+- Model Training
