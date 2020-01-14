@@ -21,3 +21,5 @@ Basic sentence tokenizer was used, and then count the words in a document as raw
  The model was built using "features" and "toxic" on training data.
  
  - Results DataFrame Creation
+ 
+ The testing data was converted in same context as training data; and then make predictions for each class and output in a data frame.
