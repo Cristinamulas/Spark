@@ -23,4 +23,4 @@ Basic sentence tokenizer was used, and then count the words in a document as raw
  - Results DataFrame Creation
  
  The testing data was converted in same context as training data; and then make predictions for each class and output in a data 
-fr
+frame
