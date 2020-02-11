@@ -8,7 +8,7 @@
 • The pyspark.ml library is the key point used for machine learning with Spark DataFrames.
 
 
-- Spark Context and Load Data
+- Spark Context and 
 
 Spark context was built,and training and testing data were loaded.
 
